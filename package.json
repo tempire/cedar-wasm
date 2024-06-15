@@ -1,7 +1,7 @@
 {
-  "name": "@tempire/cedar-policy/cedar-wasm",
-  "description": "Wasm bindings and typescript types for Cedar lib - Fixed to work with nodejs import (-\d suffix indicates my versioning)",
-  "version": "3.2.3-1",
+  "name": "@tempire/cedar-wasm",
+  "description": "Wasm bindings and typescript types for Cedar lib - Fixed to work with nodejs import",
+  "version": "3.2.3",
   "license": "Apache-2.0",
   "files": [
     "esm/package.json",
